@@ -1,0 +1,13 @@
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\bin\Debug\netcoreapp3.1\GTPSLauncher.exe
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\bin\Debug\netcoreapp3.1\GTPSLauncher.deps.json
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\bin\Debug\netcoreapp3.1\GTPSLauncher.runtimeconfig.json
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\bin\Debug\netcoreapp3.1\GTPSLauncher.runtimeconfig.dev.json
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\bin\Debug\netcoreapp3.1\GTPSLauncher.dll
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\bin\Debug\netcoreapp3.1\GTPSLauncher.pdb
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.csprojAssemblyReference.cache
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.AssemblyInfoInputs.cache
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.AssemblyInfo.cs
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.csproj.CoreCompileInputs.cache
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.dll
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.pdb
+C:\Users\hade\source\repos\GTPSLauncher\GTPSLauncher\obj\Debug\netcoreapp3.1\GTPSLauncher.genruntimeconfig.cache
