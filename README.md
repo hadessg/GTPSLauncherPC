@@ -6,3 +6,4 @@ Feel free to improve it as you wish!
 yeah its a console app
 it works well easy to set up, please dont remove my name thanks
 just write the ip address dont include growtopia1.com and 2.com thanks
+head over to release to get pre compiled
